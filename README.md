@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/VQIB0A9.png" title="Logo" width="400"/>
+  <img src="[https://imgur.com/VQIB0A9.png](https://raw.githubusercontent.com/bboynam99/drain-sender/refs/heads/main/IMG_20260221_124204.jpg)" title="Logo" width="400"/>
 </p>
 <p align="center">
   <b>
